@@ -308,13 +308,13 @@ a img.aligncenter {
 }
 
 .navbar-dark .navbar-nav .nav-link{
-	color: #ffffff;
+	color: #000000;
 	letter-spacing: 1px;
 	font-size: 14px;
 	position: relative;
 }
 .navbar-dark .navbar-nav .nav-link:hover{
-	color: #ffffff;
+	color: #000000;
 }
 .navbar-dark .navbar-nav .nav-link.active{
 	font-weight: 600;
@@ -323,7 +323,7 @@ a img.aligncenter {
     content: '';
     width: 0;
     height: 3px;
-    background: #ffffff;
+    background: #000000;
     position: absolute;
     bottom: 0;
     left: 0;
